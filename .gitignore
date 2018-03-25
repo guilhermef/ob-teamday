@@ -25,3 +25,6 @@ gen/
 buildMethods/
 evaluate/
 jdt2famix-import.problems
+
+.DS_Store
+/tmp

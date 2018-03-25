@@ -1,0 +1,4 @@
+FROM gradle:jdk8-alpine
+
+RUN mkdir /home/gradle/app
+WORKDIR /home/gradle/app
