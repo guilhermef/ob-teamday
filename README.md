@@ -10,3 +10,15 @@ At the end, we expect to run your solutions easily! We gonna access from your lo
 
 * +1: If you create a Makefile with rules that abstract many steps to bring your solution to life
 * +1: Write a clear and concise documentation explaining how to run your solution.
+
+## build
+  `make build`
+  It builds the current code on the repo
+
+## run
+  `make run`
+  Runs the current code on Docker
+
+## run deployable
+  `make run_deployable`
+  Runs the latest deployable built container
